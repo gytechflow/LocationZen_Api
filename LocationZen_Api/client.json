@@ -1,0 +1,101 @@
+[
+  {
+    "noms": "Martin",
+    "statut": true,
+    "cni": 1234567890123,
+    "logement": "Appartement",
+    "telephone": "+33 6 12 34 56 78",
+    "date": "2022-05-20T14:00:00.000Z",
+    "fraisVisite": 1000,
+    "commission": 50,
+    "montantTotal": 1050
+  },
+  {
+    "noms": "Dupont",
+    "statut": true,
+    "cni": 2345678901234,
+    "logement": "Maison",
+    "telephone": "+33 6 01 23 45 67",
+    "date": "2022-06-15T09:30:00.000Z",
+    "fraisVisite": 800,
+    "commission": 80,
+    "montantTotal": 880
+  },
+  {
+    "noms": "Durand",
+    "statut": false,
+    "cni": 3456789012345,
+    "logement": "Studio",
+    "telephone": "+33 7 89 01 23 45",
+    "date": "2022-07-10T11:00:00.000Z",
+    "fraisVisite": 500,
+    "commission": null,
+    "montantTotal": 500
+  },
+  {
+    "noms": "Petit",
+    "statut": true,
+    "cni": 4567890123456,
+    "logement": "Appartement",
+    "telephone": "+33 6 78 90 12 34",
+    "date": "2022-08-05T15:30:00.000Z",
+    "fraisVisite": 1200,
+    "commission": 100,
+    "montantTotal": 1300
+  },
+  {
+    "noms": "Lefebvre",
+    "statut": true,
+    "cni": 5678901234567,
+    "logement": "Maison",
+    "telephone": "+33 6 45 67 89 01",
+    "date": "2022-09-01T10:00:00.000Z",
+    "fraisVisite": 900,
+    "commission": 75,
+    "montantTotal": 975
+  },
+  {
+    "noms": "Moreau",
+    "statut": false,
+    "cni": 6789012345678,
+    "logement": "Studio",
+    "telephone": "+33 7 23 45 67 89",
+    "date": "2022-10-28T14:00:00.000Z",
+    "fraisVisite": 400,
+    "commission": null,
+    "montantTotal": 400
+  },
+  {
+    "noms": "Simon",
+    "statut": true,
+    "cni": 7890123456789,
+    "logement": "Appartement",
+    "telephone": "+33 6 56 78 90 12",
+    "date": "2022-11-23T16:30:00.000Z",
+    "fraisVisite": 1500,
+    "commission": 120,
+    "montantTotal": 1620
+  },
+  {
+    "noms": "Roux",
+    "statut": true,
+    "cni": 8901234567890,
+    "logement": "Maison",
+    "telephone": "+33 6 34 56 78 90",
+    "date": "2022-12-18T13:00:00.000Z",
+    "fraisVisite": 800,
+    "commission": 60,
+    "montantTotal": 860
+  },
+  {
+    "noms": "Girard",
+    "statut": false,
+    "cni": 9012345678901,
+    "logement": "Studio",
+    "telephone": "+33 7 45 67 89 01",
+    "date": "2023-01-14T11:30:00.000Z",
+    "fraisVisite": 600,
+    "commission": null,
+    "montantTotal": 600
+  }
+    ]

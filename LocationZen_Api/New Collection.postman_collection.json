@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "713a2297-ad4b-4d28-8a79-191300330471",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "25696877"
+	},
+	"item": [
+		{
+			"name": "all ckent",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "post client",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
